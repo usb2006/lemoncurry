@@ -1,0 +1,1 @@
+A UV sensitive monomer is used for three-dimensional printing called microstereo lithography. Using a video projector with a UV output, it is able to create incredibly thin polymer layers and build objects layer by layer.
